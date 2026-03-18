@@ -76,7 +76,6 @@ void setup(){
 }
 void loop(){
   rimocon.update();
-  delay(1);
 }
 
 //*/
