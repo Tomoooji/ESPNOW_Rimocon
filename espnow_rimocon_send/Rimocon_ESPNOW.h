@@ -51,6 +51,9 @@ class ESPnowRimocon{
     esp_now_send(this->receiver_address, (uint8_t*)&this->sending, sizeof(this->sending));
   }
 
-};
+  virtual bool begin(const uint8_t* address = nullptr){
+    return this->init(address);
+  }
+  virtual void update(){}
 
-//inline ESPnowRimocon* ESPnowRimocon::_instance = nullptr;
+};
