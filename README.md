@@ -14,7 +14,8 @@
     espnow_rimicon_send_inherited.ino  
   * espnow_rimicon_recv_inherited -応用ver(受信側)  
     espnow_rimicon_recv_inherited.ino  
-## ライブラリのインクルード
+## Arduino IDEへのインクルード
+ここのフォルダを.zipでダウンロードして読み込むか、コードのフォルダがあるところにあるlibrariesフォルダにそのまま突っ込むかしてくださいな
 ## 使い方
 ### シンプルver
 ### 応用ver
