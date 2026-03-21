@@ -4,7 +4,7 @@
 
 ## ファイル構成
 - src  
- * ESPNOW_Rimocon.h
+  * ESPNOW_Rimocon.h
 ## ライブラリのインクルード
 ## 使い方
 ### シンプルver
