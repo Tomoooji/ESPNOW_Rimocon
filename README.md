@@ -3,8 +3,8 @@
 **ESP32以外のESP系マイコンでの動作検証はしてないです。悪しからず。**
 
 ## ファイル構成
--src  
-*ESPNOW_Rimocon.h
+- src  
+ * ESPNOW_Rimocon.h
 ## ライブラリのインクルード
 ## 使い方
 ### シンプルver
