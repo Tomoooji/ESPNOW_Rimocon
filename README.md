@@ -5,6 +5,16 @@
 ## ファイル構成
 - src  
   * ESPNOW_Rimocon.h
+    ライブラリ本体(ESPNOWRimoconクラス)
+- examples
+  * espnow_rimicon_send
+    espnow_rimicon_send.ino
+  * espnow_rimicon_recv
+    espnow_rimicon_recv.ino
+  * espnow_rimicon_send_inherited
+    espnow_rimicon_send_inherited.ino
+  * espnow_rimicon_recv_inherited
+    espnow_rimicon_recv_inherited.ino
 ## ライブラリのインクルード
 ## 使い方
 ### シンプルver
