@@ -1,4 +1,4 @@
-#include <Rimocon_ESPNOW.h>
+#include <ESPNOW_Rimocon.h>
 
 #pragma pack(push, 1)
 struct Controller{
