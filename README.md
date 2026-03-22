@@ -26,3 +26,7 @@
 ### 応用ver
   1. やり取りするデータ型の定義をした後、ESPnowRimoconクラスのラッパークラスを作って(テンプレート引数を渡した状態での継承が楽かも)、初期化処理とloop内処理をそれぞれvoid begin()とvoid update()にoverrideする形で記述する。
   2. いい感じにbegin()してupdate()してくださいな。
+
+---
+作成者:Tomoooji in AiMEiBA
+最終更新日:2026/03/21
