@@ -28,5 +28,5 @@
   2. いい感じにbegin()してupdate()してくださいな。
 
 ---
-作成者:Tomoooji in AiMEiBA
+作成者:Tomoooji in AiMEiBA  
 最終更新日:2026/03/21
